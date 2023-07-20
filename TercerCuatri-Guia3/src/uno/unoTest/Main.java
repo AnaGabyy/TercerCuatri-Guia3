@@ -1,6 +1,5 @@
-package ejercicioUnoTest;
-
-import ejercicioUno.ListaTareas;
+package uno.unoTest;
+import uno.*;
 
 public class Main {
     public static void main(String[] args) {

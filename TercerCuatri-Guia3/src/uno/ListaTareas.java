@@ -1,4 +1,4 @@
-package ejercicioUno;
+package uno;
 
 import java.util.ArrayList;
 import java.util.List;

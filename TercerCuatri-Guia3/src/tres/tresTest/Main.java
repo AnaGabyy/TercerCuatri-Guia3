@@ -1,4 +1,4 @@
-package ejercicioTresTest;
+package tres.tresTest;
 
 public class Main {
     public static void main(String[] args) {

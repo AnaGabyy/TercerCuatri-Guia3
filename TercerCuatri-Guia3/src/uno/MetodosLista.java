@@ -1,6 +1,4 @@
-package ejercicioUno;
-
-import java.util.List;
+package uno;
 
 public interface MetodosLista {
 
